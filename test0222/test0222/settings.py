@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'hospital',  # 数据库
         'USER': 'root',  # 用户名
         'PASSWORD': '123456',  # 密码
-        'HOST': '127.0.0.1',  # ip地址
+        'HOST': '192.168.30.101',  # ip地址
         'PORT': '3306',  # 端口号
     }
 }
